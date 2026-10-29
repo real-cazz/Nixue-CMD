@@ -1,0 +1,12 @@
+NIXUE CMD 0.1.0 (portable)
+
+Run Nixue.exe. No installation is required.
+
+Requires Windows 10 (build 17763 / version 1809) or newer with the in-box
+.NET Framework 4.x runtime (present by default on Windows 10 and 11).
+
+Settings and logs are stored per-user at:
+  Documents\Nixue
+
+This folder can be copied or moved anywhere; it is fully self-contained apart
+from the operating-system runtime.
